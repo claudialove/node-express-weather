@@ -1,0 +1,23 @@
+{
+  "name": "express-weather",
+  "version": "1.0.0",
+  "description": "very simple weather app using open wether api",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudialove/node-express-weather.git"
+  },
+  "author": "claudia love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudialove/node-express-weather/issues"
+  },
+  "homepage": "https://github.com/claudialove/node-express-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
